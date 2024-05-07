@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ForcaElastica
+comment1.params=
+comment1.target=ForcaElastica()
+comment2.params=constanteElastica\ deformacao
+comment2.target=ForcaElastica(double,\ double)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ ForcaElastica\r\n
+comment3.params=
+comment3.target=double\ calcularForca()
+comment3.text=\r\n\ Calcula\ a\ for\u00E7a\ el\u00E1stica\r\n\ \r\n\ @return\ \ \ \ \ o\ valor\ da\ for\u00E7a\ el\u00E1stica,\ dado\ por\:\ constanteElastica\ *\ deformacao\r\n
+numComments=4
